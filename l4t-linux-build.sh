@@ -11,7 +11,7 @@ export KBUILD_OUTPUT=build_files/
 export KERNEL_BRANCH="linux-dev"
 export NX_VER="linux-dev"
 export NV_VER="linux-dev"
-export NG_VER="linux-3.4.0-r32.5"
+export NG_VER="linux-dev-r32.5"
 export DT_VER="l4t/l4t-r32.5"
 
 export KCFLAGS="-march=armv8-a+simd+crypto+crc -mtune=cortex-a57 --param=l1-cache-line-size=64 --param=l1-cache-size=32 --param=l2-cache-size=2048"
